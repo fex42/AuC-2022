@@ -1,4 +1,4 @@
-# AuC-2022-day1
+# AuC-2022
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [fex42][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
